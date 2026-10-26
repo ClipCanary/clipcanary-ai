@@ -1,0 +1,11 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "clipcanary",
+  "version": "0.1.0",
+  "description": "Integrate the ClipCanary GPU video transcoding API: jobs, uploads, delivery, webhooks.",
+  "extensions": {
+    "com.openai": {
+      "interface": {"displayName": "ClipCanary"}
+    }
+  }
+}

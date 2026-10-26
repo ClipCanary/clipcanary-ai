@@ -1,0 +1,20 @@
+{
+  "name": "clipcanary",
+  "version": "0.1.0",
+  "description": "Integrate the ClipCanary GPU video transcoding API: jobs, uploads, delivery, webhooks.",
+  "author": {
+    "name": "ClipCanary",
+    "url": "https://clipcanary.com"
+  },
+  "homepage": "https://clipcanary.com/docs-api",
+  "license": "MIT",
+  "keywords": [
+    "video",
+    "transcoding",
+    "hls",
+    "dash",
+    "encoding",
+    "api"
+  ],
+  "repository": "https://github.com/ClipCanary/clipcanary-ai"
+}

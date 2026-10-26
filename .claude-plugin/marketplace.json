@@ -1,0 +1,11 @@
+{
+  "name": "clipcanary",
+  "owner": {"name": "ClipCanary", "url": "https://clipcanary.com"},
+  "plugins": [
+    {
+      "name": "clipcanary",
+      "source": "./",
+      "description": "Integrate the ClipCanary GPU video transcoding API: jobs, uploads, delivery, webhooks."
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+{
+  "name": "clipcanary",
+  "version": "0.1.0",
+  "description": "Integrate the ClipCanary GPU video transcoding API: jobs, uploads, delivery, webhooks."
+}
